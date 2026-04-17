@@ -6,7 +6,7 @@ while True:
         print("Bot: Goodbye!")
         break
     elif "hello" in user_input or "hi" in user_input or "hey" in user_input:
-        print("Bot: Hello there! How can I help you today?")
+        print("Bot: Hello there! How can I help you ?")
     elif "name" in user_input:
         print("Bot: I am PyBot, a simple rule-based chatbot")
     elif "how are you?" in user_input:
